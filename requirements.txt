@@ -6,3 +6,4 @@ django-ckeditor
 ipython-genutils==0.2.0
 Jinja2==2.11.2
 json5==0.9.5
+django-heroku
