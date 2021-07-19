@@ -25,7 +25,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'k7v$aa6r%@(an&@(g#wq-38+-x-!3&m#in#&#hfoinsfc^e5f#'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['https://popstop.herokuapp.com/']
 
