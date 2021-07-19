@@ -1,1 +1,1 @@
-web: gunicorn app:app
+web: gunicorn friends.wsgi --log-file -
